@@ -1,0 +1,8 @@
+spring:
+  # ?????
+  data:
+    mongodb:
+      host: 192.168.195.141
+      database: articledb
+      # ????
+      port: 27017
